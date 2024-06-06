@@ -28,3 +28,5 @@ This library was created by Scott Danesi, to assist with people making modules w
 3. Unzip this file to the same exact directory as you previously used when you installed this library.
 4. Replace all the files.
 5. Open up KiCad and your libraries will be up to date!
+
+We truly appreciate your support.
