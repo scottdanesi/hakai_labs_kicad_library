@@ -4,7 +4,7 @@
 Welcome, and glad to see you here. Hakai Labs is a small modular synth brand established in 2024 that resides under the Danesi Designs, LLC. umbrella. Hakai Labs and Danesi Designs, LLC. are run by Scott Danesi and Sara Rose Danesi as a small family owned and operated establishment.
 
 ## About the Hakai Labs Parts Library
-This library was created by Scott Danesi, to assist with people making modules with our (Hakai Labs) parts that we currently sell on our website.
+This library was created by Scott Danesi, to assist with people making modules with our (Hakai Labs) parts that we currently sell on our website and some other common high quality parts that we use.  This library will just be slowly updated over time as we add things to it.
 
 ## Installation Instructions
 1. Download the repository above by clicking the green "Code" dropdown and selecting "Download Zip".
