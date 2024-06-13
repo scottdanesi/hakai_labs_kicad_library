@@ -6,7 +6,7 @@ Welcome, and glad to see you here. Hakai Labs is a small modular synth brand est
 ## About the Hakai Labs Parts Library
 This library was created by Scott Danesi, to assist with people making modules with our (Hakai Labs) parts that we currently sell on our website and some other common high quality parts that we use.  This library will just be slowly updated over time as we add things to it.
 
-## Installation Instructions
+## <span style="color:teal">Installation Instructions</span>
 1. Download the repository above by clicking the green "Code" dropdown and selecting "Download Zip".
 2. Unzip this file to a directory of your choice, usually where you keep your other libraries, but can be wherever you want and remember where it is.
 3. Open up KiCad and click on "Symbol Editor".  This will open a new window with the symbol editor showing. 
