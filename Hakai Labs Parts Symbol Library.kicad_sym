@@ -389,7 +389,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "LED"
-			(at 0 5.715 0)
+			(at -3.048 5.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -487,11 +487,12 @@
 			)
 			(polyline
 				(pts
-					(xy -1.016 3.81) (xy -1.016 1.27)
+					(xy -0.9657 -1.2366) (xy -0.9657 -3.7766)
 				)
 				(stroke
 					(width 0.254)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -499,11 +500,12 @@
 			)
 			(polyline
 				(pts
-					(xy 1.27 -1.27) (xy 1.27 -3.81)
+					(xy 1.3203 3.8178) (xy 1.3203 1.2778)
 				)
 				(stroke
 					(width 0.254)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -516,6 +518,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -528,6 +531,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -552,6 +556,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -564,6 +569,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -576,6 +582,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -588,6 +595,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -600,6 +608,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -612,6 +621,7 @@
 				(stroke
 					(width 0.2032)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -619,11 +629,12 @@
 			)
 			(polyline
 				(pts
-					(xy -1.016 -1.27) (xy -1.016 -3.81) (xy 1.27 -2.54) (xy -1.016 -1.27)
+					(xy -0.9657 3.8178) (xy -0.9657 1.2778) (xy 1.3203 2.5478) (xy -0.9657 3.8178)
 				)
 				(stroke
 					(width 0.254)
 					(type default)
+					(color 0 255 170 1)
 				)
 				(fill
 					(type none)
@@ -631,11 +642,12 @@
 			)
 			(polyline
 				(pts
-					(xy 1.27 3.81) (xy 1.27 1.27) (xy -1.016 2.54) (xy 1.27 3.81)
+					(xy 1.3203 -1.2366) (xy 1.3203 -3.7766) (xy -0.9657 -2.5066) (xy 1.3203 -1.2366)
 				)
 				(stroke
 					(width 0.254)
 					(type default)
+					(color 255 0 0 1)
 				)
 				(fill
 					(type none)
@@ -677,34 +689,32 @@
 			)
 		)
 		(symbol "Hakai Labs Bi-Polar CVD LED 3mm (DDE-0016-00)_1_1"
-			(text "Green\nAnode"
-				(at 6.35 3.302 0)
-				(effects
-					(font
-						(size 0.762 0.762)
-					)
-				)
-			)
-			(text "Green\nCathode"
-				(at -4.318 3.302 0)
-				(effects
-					(font
-						(size 0.762 0.762)
-					)
-					(justify right)
-				)
-			)
 			(text "Red\nAnode"
-				(at -4.826 -2.032 0)
+				(at 6.35 -2.032 0)
 				(effects
 					(font
 						(size 0.762 0.762)
 					)
-					(justify right)
 				)
 			)
 			(text "Red\nCathode"
-				(at 6.604 -2.032 0)
+				(at -6.604 -2.032 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(text "Teal\nAnode"
+				(at -6.096 3.302 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(text "Teal\nCathode"
+				(at 6.604 3.302 0)
 				(effects
 					(font
 						(size 0.762 0.762)
