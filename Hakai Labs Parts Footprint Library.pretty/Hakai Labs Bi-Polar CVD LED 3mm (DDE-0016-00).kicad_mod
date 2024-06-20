@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -183,17 +186,18 @@
 		(layer "F.Fab")
 		(uuid "85d57102-4dac-4412-b5f5-9e74a336e1af")
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
-		(size 1.8 1.8)
+		(size 1.524 1.524)
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.3)
 		(uuid "8e0e0ea3-2516-4fd0-8aea-12f875849f4a")
 	)
 	(pad "2" thru_hole circle
 		(at -2.54 0)
-		(size 1.8 1.8)
+		(size 1.524 1.524)
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
