@@ -396,7 +396,7 @@
 				)
 			)
 		)
-		(property "Value" "Hakai Labs Bi-Polar CVD LED 3mm (DDE-0016-00)"
+		(property "Value" "DDE-0016-00"
 			(at 0 -9.652 0)
 			(effects
 				(font
@@ -428,7 +428,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ki_keywords" "LED diode bicolor dual"
