@@ -1,4 +1,5 @@
 <img src="https://github.com/scottdanesi/hakai_labs_kicad_library/blob/main/Hakai%20Labs%20KiCad%20Library%20Image.png" alt="Hakai Labs Parts KiCad Library" width="300"/>
+
 # Hakai Labs Parts KiCad Library
 
 ## Hakai Labs Introduction
