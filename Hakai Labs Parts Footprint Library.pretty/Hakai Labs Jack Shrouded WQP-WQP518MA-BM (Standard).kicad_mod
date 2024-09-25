@@ -35,6 +35,7 @@
 		(effects
 			(font
 				(size 0.508 0.4572)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -47,6 +48,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -59,6 +61,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -158,7 +161,7 @@
 			(type solid)
 		)
 		(fill none)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "af134bd5-3fb2-4f97-b3f6-edb2e79b208d")
 	)
 	(fp_line

@@ -66,14 +66,24 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -4.85 -12.072243)
-		(end -4.85 -1.952243)
+		(start -4.85 -1.952243)
+		(end -4.85 -5.388486)
 		(stroke
 			(width 0.127)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "44aea5b4-194f-49f7-8ae9-06444d066ef6")
+		(uuid "11da05d7-46e8-4775-923e-31dc6cea8ea1")
+	)
+	(fp_line
+		(start -4.849887 -8.626018)
+		(end -4.849887 -12.062261)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "350107d8-f17e-4b38-994c-8a9e2ec42936")
 	)
 	(fp_line
 		(start -4.41 -1.512243)
@@ -96,7 +106,17 @@
 		(uuid "415c8529-c917-40e2-98aa-b2dc1c704c2b")
 	)
 	(fp_line
-		(start 4.85 -1.952243)
+		(start 4.849887 -1.962225)
+		(end 4.849887 -5.398468)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c21f0599-23df-4ffd-8291-49edeaab3187")
+	)
+	(fp_line
+		(start 4.85 -8.636)
 		(end 4.85 -12.072243)
 		(stroke
 			(width 0.127)
@@ -128,6 +148,17 @@
 		(uuid "1677897f-67b7-42d3-b28a-cadfd9a7abb9")
 	)
 	(fp_arc
+		(start -3.302 -8.382)
+		(mid 0.075621 -10.586277)
+		(end 3.356983 -8.241106)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "42d03f48-f301-4696-866a-a145b01b5b33")
+	)
+	(fp_arc
 		(start -1.651 -4.853243)
 		(mid 1.651 -9.171243)
 		(end -1.651 -4.853243)
@@ -137,6 +168,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "45571da0-a7bb-4426-9eb2-f2a0ff5d3100")
+	)
+	(fp_arc
+		(start 3.302 -5.588)
+		(mid 0 -3.41618)
+		(end -3.302 -5.588)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "15ae8a2f-2d45-40ae-b8d3-b46897ec63e2")
 	)
 	(fp_arc
 		(start 4.400018 -12.51213)
@@ -159,17 +201,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "7d085c2a-bff2-4992-bf11-2a7a95143a22")
-	)
-	(fp_circle
-		(center 0.000163 -7.0104)
-		(end 3.500163 -7.0104)
-		(stroke
-			(width 0.127)
-			(type solid)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "65e4bd64-09cd-42cc-af56-f8b6d5168cec")
 	)
 	(fp_circle
 		(center 0 -7.012243)
@@ -328,7 +359,7 @@
 		(remove_unused_layers no)
 		(uuid "6090fcf0-1ce8-42c3-8dc2-c665beb1ea29")
 	)
-	(pad "4" thru_hole oval
+	(pad "MP" thru_hole oval
 		(at -4.394037 -7.0104 180)
 		(size 2.5 2.8)
 		(drill oval 1.8 2.1)
@@ -336,7 +367,7 @@
 		(remove_unused_layers no)
 		(uuid "fab07fd4-a349-4086-a7fc-c260447554d8")
 	)
-	(pad "5" thru_hole oval
+	(pad "MP" thru_hole oval
 		(at 4.394363 -7.0104 180)
 		(size 2.5 2.8)
 		(drill oval 1.8 2.1)
